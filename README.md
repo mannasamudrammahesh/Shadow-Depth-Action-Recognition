@@ -2,6 +2,14 @@
 
 A real-time computer vision application that uses physics-based shadow analysis and depth estimation to recognize hand-to-mouth actions. Built with advanced computer vision techniques, this system analyzes shadows cast by hands to calculate 3D distances and classify actions with high accuracy.
 
+## 🎥 Demo
+
+Watch the live demonstration of the Shadow-Depth Action Recognition system in action:
+
+[![Shadow-Depth Action Recognition Demo](https://img.youtube.com/vi/wcVjnqYEliA/maxresdefault.jpg)](https://youtu.be/wcVjnqYEliA)
+
+**[🎬 View Demo on YouTube](https://youtu.be/wcVjnqYEliA)**
+
 ## 🚀 Features
 
 - **Real-time Action Recognition**: Detects and classifies hand movements (safe, approaching, touching, eating)
